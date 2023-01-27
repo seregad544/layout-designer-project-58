@@ -1,0 +1,143 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+    color: #2A2626;
+    position: relative;
+}
+
+h1, h2, h3 {
+    font-family: 'Neucha', cursive;
+    line-height: 1.2em;
+}
+
+h1 {
+    font-size: 72px;
+}
+
+h2 {
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 34px;
+}
+
+.background-color-white {
+    background-color: #fff;
+}
+
+.background-color-white-light {
+    background-color: #d7ccc0;
+}
+
+.background-color-light {
+    background-color: #f5f4f0;
+}
+
+.background-color-main {
+    background-color: #fe8a02;
+}
+
+.background-color-main-dark {
+    background-color: #42413c;
+}
+
+.background-color-dark {
+    background-color: #2a2626;
+}
+
+.background-color-dark-light {
+    background-color: #908d8b;
+}
+
+.background-color-brown {
+    background-color: #b09a81;
+}
+
+.background-color-blue {
+    background-color: #1085c5;
+}
+
+
+
+.text-white {
+    color: #fff;
+}
+
+.text-white-light {
+    color: #d7ccc0;
+}
+
+.text-light {
+    color: #f5f4f0;
+}
+
+.text-main {
+    color: #fe8a02;
+}
+
+.text-main-dark {
+    color: #42413c;
+}
+
+.text-dark {
+    color: #2a2626;
+}
+
+.text-dark-light {
+    color: #908d8b;
+}
+
+.text-brown {
+    color: #b09a81;
+}
+
+.text-blue {
+    color: #1085c5;
+}
+
+
+.block {
+    box-sizing: border-box;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+
+header {
+    height: 914px;
+}
+
+.section-1 {
+    height: 814px;
+    position: relative;
+    text-align: center;
+}
+
+.section-2 {
+    height: 991px;
+}
+
+.section-3 {
+    
+    
+}
+
+.section-4 {
+    
+}
+
+.section-5 {
+    
+}
+
+.video {
+    position: absolute;
+    left: 261px;
+    top: 329px;
+    filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
+}
+
+.background-image {
+
+}
